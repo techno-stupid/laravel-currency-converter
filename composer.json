@@ -1,0 +1,19 @@
+{
+    "name": "techno-stupid/currency-converter",
+    "description": "Currency converter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Mahady Hasan Pial",
+            "email": "pial.coder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "TechnoStupid\\CurrencyConverter\\": "src/"
+        }
+    }
+}
